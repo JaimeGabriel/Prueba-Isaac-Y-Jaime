@@ -1,0 +1,68 @@
+Archivo: operaciones_basicas.py
+
+Suma de dos números.
+Resta de dos números.
+Multiplicación de dos números.
+División de dos números.
+Potencia de un número.
+Raíz cuadrada de un número.
+Factorial de un número.
+Comprobar si un número es primo.
+Cálculo de la potencia de un número módulo n (exponenciación modular).
+
+
+Archivo: secuencias.py
+
+Secuencia de Fibonacci hasta un número dado.
+Secuencia de números primos hasta un número dado.
+Secuencia de números pares hasta un número dado.
+Secuencia de números impares hasta un número dado.
+Secuencia de números triangulares hasta un número dado.
+Secuencia de números cuadrados hasta un número dado.
+Secuencia de números cúbicos hasta un número dado.
+Secuencia de números de la serie de Lucas hasta un número dado.
+Secuencia de números de la serie de Pell hasta un número dado.
+Secuencia de números de la serie de Catalan hasta un número dado.
+Secuencia de números de la serie de Fibonacci inversa hasta un número dado.
+
+
+Archivo: matematica_avanzada.py
+
+Mínimo Común Múltiplo (mcm).
+Máximo Común Divisor (MCD).
+Comprobar si un número es positivo, negativo o cero.
+
+
+Archivo: conversiones.py
+
+Convertir grados Celsius a grados Fahrenheit y viceversa.
+Convertir números decimales a binarios y viceversa.
+Convertir grados a radianes y viceversa.
+
+
+Archivo: estadisticas.py
+
+Suma de una lista de números.
+Promedio de una lista de números.
+Mediana de una lista de números.
+Desviación estándar de una lista de números.
+
+
+Archivo: geometría.py
+
+Área y perímetro de un círculo.
+Área y perímetro de un rectángulo.
+Área y perímetro de un triángulo.
+Área de un cuadrado.
+Perímetro de un cuadrado.
+Área de un triángulo rectángulo.
+Hipotenusa de un triángulo rectángulo.
+Área de un círculo sectorial.
+Volumen de una esfera.
+Volumen de un cilindro.
+Área de un trapecio.
+Longitud de una circunferencia.
+Área de un paralelogramo.
+Área de un rombo.
+Distancia entre dos puntos en el plano cartesiano.
+Área de un polígono irregular.
