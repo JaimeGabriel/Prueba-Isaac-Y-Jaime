@@ -1,6 +1,6 @@
 # Prueba Isaac Y Jaime
  Esto es una prueba para aprender a usar github.
 
- Nombres (ahora escribe tu nombre):
+ Nombres:
     - Jaime Gabriel Vegas. Graduado en física.
-    -
+    - Isaac Daniel Sánchez Guerrero, Técnico superior en desarrollo de aplicaciones web y multiplataforma y estudiante de Ingeniería Informática.
