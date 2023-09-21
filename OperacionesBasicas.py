@@ -7,3 +7,5 @@ def suma(a, b):
 # Función que calcula el resto de la división del primero número entre el segundo
 def resto(a, b):
     return print("El resto de " + str(a) + " entre " + str(b) + " es " + str(a%b))
+
+# Comentario de prueba
