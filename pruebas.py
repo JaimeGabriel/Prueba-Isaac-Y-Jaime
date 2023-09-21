@@ -1,3 +1,3 @@
 from OperacionesBasicas import *
 
-suma(7, 6)
+resto(7, 2)
