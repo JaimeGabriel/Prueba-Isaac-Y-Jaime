@@ -10,7 +10,7 @@ Factorial de un número.
 Comprobar si un número es primo.
 Cálculo de la potencia de un número módulo n (exponenciación modular).
 
-
+g
 Archivo: secuencias.py
 
 Secuencia de Fibonacci hasta un número dado.
